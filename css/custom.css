@@ -249,20 +249,21 @@
   border-radius: 8px;
 }
 
-/* 鼠标样式 */
+/* 鼠标样式
 #cursor {
   position: fixed;
   width: 16px;
   height: 16px;
   /* 这里改变跟随的底色 */
-  background: rgb(57, 197, 187);
+  /* background: rgb(57, 197, 187);
   border-radius: 8px;
   opacity: 0.25;
   z-index: 10086;
   pointer-events: none;
   transition: 0.2s ease-in-out;
   transition-property: background, opacity, transform;
-}
+} 
+*/ 
 
 #cursor.hidden {
   opacity: 0;
