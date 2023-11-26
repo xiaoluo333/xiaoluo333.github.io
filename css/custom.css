@@ -29,6 +29,12 @@
     background: transparent !important;
   }
 
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+.italic {
+  font-family: 'Italiana', cursive;
+  font-style: italic;
+}
+
   @font-face {
     /* 为载入的字体取名字(随意) */
     font-family: 'YSHST';	
@@ -42,7 +48,7 @@
     font-display: block;
   }
 
-/* 翻页按钮居中
+/*翻页按钮居中*/
 #pagination {
   width: 100%;
   margin: auto;
@@ -55,21 +61,21 @@
 }
 
 /* 手机端适配 */
-/* [data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
+ [data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
   text-shadow: 0 0 2px var(179, 71, 241) !important;
-} */
+} 
 
 /* 闪烁变动颜色连续渐变 */
-/* #site-name,
+#site-name,
 #site-title,
 #site-subtitle,
 #post-info,
 .author-info__name,
 .author-info__description {
   transition: text-shadow 1s linear !important;
-} */ 
+} 
 
-/* 日间模式不生效 */
+/* 日间模式不生效*/
 [data-theme="light"] #site-name,
 [data-theme="light"] #site-title,
 [data-theme="light"] #site-subtitle,
@@ -188,7 +194,7 @@
 }
 
 /* 侧边栏个人信息卡片动态渐变色 */
-#aside-content > .card-widget.card-info {
+/* #aside-content > .card-widget.card-info {
   background: linear-gradient(
     -45deg,
     #e8d8b9,
@@ -236,24 +242,24 @@
   100% {
     background-position: 0% 50%;
   }
-}
+} */
 
 /* 黑夜模式适配 */
-[data-theme="dark"] #aside-content > .card-widget.card-info {
+/* [data-theme="dark"] #aside-content > .card-widget.card-info {
   background: #191919ee;
-}
+} */
 
 /* 个人信息Follow me按钮 */
-#aside-content > .card-widget.card-info > #card-info-btn {
+/* #aside-content > .card-widget.card-info > #card-info-btn {
   background-color: #3eb8be;
   border-radius: 8px;
-}
+} */
 
-/* 鼠标样式
-#cursor {
+/* 鼠标样式 */
+/* #cursor {
   position: fixed;
   width: 16px;
-  height: 16px;
+  height: 16px; */
   /* 这里改变跟随的底色 */
   /* background: rgb(57, 197, 187);
   border-radius: 8px;
@@ -262,8 +268,7 @@
   pointer-events: none;
   transition: 0.2s ease-in-out;
   transition-property: background, opacity, transform;
-} 
-*/ 
+}
 
 #cursor.hidden {
   opacity: 0;
@@ -285,7 +290,7 @@
   -moz-transform: scale(0.5);
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
-}
+} */
 
 /* 背景宇宙星光  */
 #universe{
@@ -301,7 +306,7 @@
     height: 100%;
     pointer-events: none;
     /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */
-    z-index: -1;
+    z-index: 1;
   }
 
 
