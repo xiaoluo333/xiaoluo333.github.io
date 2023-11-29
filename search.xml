@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>My New Post</title>
-      <link href="/2023/11/25/My-New-Post-4/"/>
-      <url>/2023/11/25/My-New-Post-4/</url>
+      <title>无题</title>
+      <link href="/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E6%97%A0%E9%A2%98/"/>
+      <url>/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E6%97%A0%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 诗意星云 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My New Post</title>
-      <link href="/2023/11/25/My-New-Post-3/"/>
-      <url>/2023/11/25/My-New-Post-3/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>严寒逢祥瑞，天府奏竹琴。<br>云舟荡洛河，星落地坛间。<br><img src="/.com//zhu.jpg" alt="竹艺村" style="zoom:50%;"><br><img src="/.com//ditan.jpg" alt="地坛" style="zoom:50%;"></p>]]></content>
       
       
       <categories>
@@ -42,11 +23,11 @@
     
     
     <entry>
-      <title>My New Post</title>
-      <link href="/2023/11/25/My-New-Post-2/"/>
-      <url>/2023/11/25/My-New-Post-2/</url>
+      <title>你是</title>
+      <link href="/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E4%BD%A0%E6%98%AF/"/>
+      <url>/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E4%BD%A0%E6%98%AF/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>你是唯一的，明亮的，透澈的，<br>清脆的，甘甜的，白雪一样的。<br>你是清晨的飞机，秋日的暖意，<br>带着芳香的期待，<br>我无条件的选择，日复一日的梦想。<br>怎样才能让你明白<br>为什么<br>黄昏给了我模糊的双眸，我却用它寻找你。<br><img src="/.com//feiji.jpg" alt="飞机" style="zoom:50%;"></p>]]></content>
       
       
       <categories>
@@ -61,11 +42,69 @@
     
     
     <entry>
-      <title>找到我</title>
-      <link href="/2023/11/25/My-New-Post-1/"/>
-      <url>/2023/11/25/My-New-Post-1/</url>
+      <title>我是</title>
+      <link href="/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E6%88%91%E6%98%AF/"/>
+      <url>/2023/11/25/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E6%88%91%E6%98%AF/</url>
+      
+        <content type="html"><![CDATA[<p>我是遨游在宇宙的灵魂<br>偶然撞上一片星云<br>于是想做飘浮的空气<br>想做环绕的尘埃<br>可是造物主偏偏让我化为流星<br>所以我便降落在有你的星球<br><img src="/.com//liuxing.jpg" alt="流星" style="zoom:50%;"></p><p>我是遨游在宇宙的灵魂<br>偶然随流星划过天际<br>落为一阵南方的雪<br>于是汇聚成一条小溪<br>逆着大河向高山流去<br>怎样才能让你了解<br>用雪峰去触碰星云<br>是小洛的渴望<br><img src="/.com//xuefeng.jpg" alt="雪峰" style="zoom:50%;"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 诗意星云 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我在哪里</title>
+      <link href="/2023/11/25/%E6%88%91%E5%9C%A8%E5%93%AA%E9%87%8C/"/>
+      <url>/2023/11/25/%E6%88%91%E5%9C%A8%E5%93%AA%E9%87%8C/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" href="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css"><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js"></script><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js"></script><div class="map-box" style="margin: 0.8rem 0 1.6rem 0;"><div id="map-104.08-30.63" style="max-width:100%; height:360px;display: block;margin:0 auto;z-index:1;border-radius: 5px;"></div></div><script type="text/javascript">var normalm=L.tileLayer.chinaProvider('GaoDe.Normal.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imgm=L.tileLayer.chinaProvider('GaoDe.Satellite.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imga=L.tileLayer.chinaProvider('GaoDe.Satellite.Annotion',{maxZoom:20,minZoom:1,attribution:'高德地图'});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:20,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'});routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1,attribution:'Google Maps'});var normalm1=L.tileLayer.chinaProvider('Geoq.Normal.Map',{maxZoom:21,minZoom:1,attribution:'GeoQ'});var normal=L.layerGroup([normalm]),image=L.layerGroup([imgm,imga]);var baseLayers={"高德地图":normal,"智图地图":normalm1,"谷歌地图":normalMap,"高德卫星地图":imgm,"谷歌卫星地图":satelliteMap,"高德卫星标注":image,"谷歌卫星标注":routeMap};var mymap=L.map('map-104.08-30.63',{center:[30.63,104.08],zoom:16,layers:[normal],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:'放大',zoomOutTitle:'缩小'}).addTo(mymap);var marker = L.marker(['30.63','104.08']).addTo(mymap);marker.bindPopup("这里据说可以找到小洛哦！").openPopup();</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于这个网站的七件小事</title>
+      <link href="/2023/11/18/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E7%9A%84%E4%B8%83%E4%BB%B6%E5%B0%8F%E4%BA%8B/"/>
+      <url>/2023/11/18/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E7%9A%84%E4%B8%83%E4%BB%B6%E5%B0%8F%E4%BA%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-这个网站一切都和星云有关"><a href="#1-这个网站一切都和星云有关" class="headerlink" title="1.这个网站一切都和星云有关"></a>1.这个网站一切都和星云有关</h2><h2 id="2-设置了手机版和电脑版，电脑版打开会有一只小洛"><a href="#2-设置了手机版和电脑版，电脑版打开会有一只小洛" class="headerlink" title="2.设置了手机版和电脑版，电脑版打开会有一只小洛"></a>2.设置了手机版和电脑版，电脑版打开会有一只小洛</h2><h2 id="3-考虑到护眼，白天和黑夜是不一样的，这也可以手动打开"><a href="#3-考虑到护眼，白天和黑夜是不一样的，这也可以手动打开" class="headerlink" title="3.考虑到护眼，白天和黑夜是不一样的，这也可以手动打开"></a>3.考虑到护眼，白天和黑夜是不一样的，这也可以手动打开</h2><h2 id="4-网站每天会进行检查维护改进，有想实现的想法可以告诉小洛～"><a href="#4-网站每天会进行检查维护改进，有想实现的想法可以告诉小洛～" class="headerlink" title="4.网站每天会进行检查维护改进，有想实现的想法可以告诉小洛～"></a>4.网站每天会进行检查维护改进，有想实现的想法可以告诉小洛～</h2><h2 id="5-有时可能会有小彩蛋掉落"><a href="#5-有时可能会有小彩蛋掉落" class="headerlink" title="5.有时可能会有小彩蛋掉落"></a>5.有时可能会有小彩蛋掉落</h2><h2 id="6-第5条概率会大大提高当遇到纪念日时"><a href="#6-第5条概率会大大提高当遇到纪念日时" class="headerlink" title="6.第5条概率会大大提高当遇到纪念日时"></a>6.第5条概率会大大提高当遇到纪念日时</h2><h2 id="7-网站存在时间-爱存在的时间，除非com崩了"><a href="#7-网站存在时间-爱存在的时间，除非com崩了" class="headerlink" title="7.网站存在时间&#x3D;&#x3D;爱存在的时间，除非com崩了"></a>7.网站存在时间&#x3D;&#x3D;爱存在的时间，除非com崩了</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/2023/11/18/tags/index/"/>
+      <url>/2023/11/18/tags/index/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初识</title>
+      <link href="/2023/11/18/%E6%88%91%E4%B8%8E%E6%98%9F%E4%BA%91/2021_7_25/"/>
+      <url>/2023/11/18/%E6%88%91%E4%B8%8E%E6%98%9F%E4%BA%91/2021_7_25/</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
@@ -80,73 +119,35 @@
     
     
     <entry>
-      <title>小洛</title>
-      <link href="/2023/11/18/My-New-Post/"/>
-      <url>/2023/11/18/My-New-Post/</url>
+      <title>玫瑰星云</title>
+      <link href="/2023/11/18/%E5%A4%AA%E7%A9%BA%E6%98%9F%E4%BA%91/%E7%8E%AB%E7%91%B0%E6%98%9F%E4%BA%91/"/>
+      <url>/2023/11/18/%E5%A4%AA%E7%A9%BA%E6%98%9F%E4%BA%91/%E7%8E%AB%E7%91%B0%E6%98%9F%E4%BA%91/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<p><strong>玫瑰星云（NGC 2237）</strong>，是一个巨大的电离氢区，位于麒麟座一个庞大分子云的末端。这个分子云集团包括NGC 2237、NGC 2238、NGC 2239、NGC 2244、NGC 2246五个NGC天体。疏散星团NGC 2244与玫瑰星云关系相当密切，NGC 2244内的恒星是由玫瑰星云的物质所形成的。该星团与星云距离地球大约5200光年，直径大约为130光年。星云的质量估计约有10,000倍太阳质量。 </p><p>一般认为在恒星形成之后，O型与B型恒星的恒星风造成的压力压缩了星际云团。钱德拉x射线天文台在2001年的观测证实玫瑰星云的中心拥有非常炙热且年轻的恒星。</p><p>“宇宙情花”玫瑰星云2009年2月广东有天文爱好者凭借天文望远镜和数码相机，拍下了被誉为“情花”的玫瑰星云的倩影。 从图片中可以看到，这个星云宛如一朵绽放的玫瑰，美轮美奂。这么美丽的星云，人们平时很难用肉眼看到，只有通过相机的长时间曝光，星云原本暗弱的光亮在积聚后才能逐步呈现出亮丽的色彩。</p><img src="/.com//nebula.jpg" alt="玫瑰星云" style="zoom:50%;">]]></content>
+      
+      
+      <categories>
+          
+          <category> 太空星云 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>今夜</title>
+      <link href="/2023/11/18/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E4%BB%8A%E5%A4%9C/"/>
+      <url>/2023/11/18/%E8%AF%97%E6%84%8F%E6%98%9F%E4%BA%91/%E4%BB%8A%E5%A4%9C/</url>
+      
+        <content type="html"><![CDATA[<p>姐姐，今夜我在九眼桥，夜色如墨。<br>当晚风拂过江水，<br>带来花香，<br>传来琴声，<br>我用皮肤感受你的流向。</p><p>姐姐，我今夜只有星空和仰望。<br>想象北银河的天琴座，<br>弹奏一曲对远方的思念，<br>那琴声温柔眷恋，<br>坚定从容，<br>好似，我在梦的水波里荡漾。</p><p>姐姐，今夜没有星，也没有云，只有相遇。<br>如果我是流星，<br>你是水瓶，<br>那么，命运就是射手，<br>把我抛出，<br>沉入水底。</p><p>姐姐，今夜我不关心星空，我只想你。<br><img src="/.com//jinye.jpg" alt="锦江" style="zoom:50%;"></p>]]></content>
       
       
       <categories>
           
           <category> 诗意星云 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小洛</title>
-      <link href="/2023/11/18/hello-world/"/>
-      <url>/2023/11/18/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 太空星云 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小洛</title>
-      <link href="/2023/11/18/%E5%B0%8F%E6%B4%9B/index/"/>
-      <url>/2023/11/18/%E5%B0%8F%E6%B4%9B/index/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 太空星云 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小洛</title>
-      <link href="/2023/11/18/tags/index/"/>
-      <url>/2023/11/18/tags/index/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 太空星云 </category>
           
       </categories>
       
