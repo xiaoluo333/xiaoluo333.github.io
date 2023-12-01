@@ -68,6 +68,12 @@
         <content type="html"><![CDATA[<p>第一次没出来可以刷新试试~</p><link rel="stylesheet" href="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css"><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js"></script><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js"></script><div class="map-box" style="margin: 0.8rem 0 1.6rem 0;"><div id="map-104.08-30.63" style="max-width:100%; height:360px;display: block;margin:0 auto;z-index:1;border-radius: 5px;"></div></div><script type="text/javascript">var normalm=L.tileLayer.chinaProvider('GaoDe.Normal.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imgm=L.tileLayer.chinaProvider('GaoDe.Satellite.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imga=L.tileLayer.chinaProvider('GaoDe.Satellite.Annotion',{maxZoom:20,minZoom:1,attribution:'高德地图'});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:20,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'});routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1,attribution:'Google Maps'});var normalm1=L.tileLayer.chinaProvider('Geoq.Normal.Map',{maxZoom:21,minZoom:1,attribution:'GeoQ'});var normal=L.layerGroup([normalm]),image=L.layerGroup([imgm,imga]);var baseLayers={"高德地图":normal,"智图地图":normalm1,"谷歌地图":normalMap,"高德卫星地图":imgm,"谷歌卫星地图":satelliteMap,"高德卫星标注":image,"谷歌卫星标注":routeMap};var mymap=L.map('map-104.08-30.63',{center:[30.63,104.08],zoom:16,layers:[normal],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:'放大',zoomOutTitle:'缩小'}).addTo(mymap);var marker = L.marker(['30.63','104.08']).addTo(mymap);marker.bindPopup("这里据说可以找到小洛哦！").openPopup();</script>]]></content>
       
       
+      <categories>
+          
+          <category> 我与星云 </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -80,6 +86,12 @@
       
         <content type="html"><![CDATA[<h2 id="1-这个网站的一切，都和星云有关"><a href="#1-这个网站的一切，都和星云有关" class="headerlink" title="1.这个网站的一切，都和星云有关"></a>1.这个网站的一切，都和星云有关</h2><h2 id="2-设置了手机版和电脑版，电脑版打开会有更多细节等待发现"><a href="#2-设置了手机版和电脑版，电脑版打开会有更多细节等待发现" class="headerlink" title="2.设置了手机版和电脑版，电脑版打开会有更多细节等待发现~"></a>2.设置了手机版和电脑版，电脑版打开会有更多细节等待发现~</h2><h2 id="3-白天和黑夜的网站有所不同，可以在设置中切换哦"><a href="#3-白天和黑夜的网站有所不同，可以在设置中切换哦" class="headerlink" title="3.白天和黑夜的网站有所不同，可以在设置中切换哦"></a>3.白天和黑夜的网站有所不同，可以在设置中切换哦</h2><h2 id="4-网站每天会进行检查维护改进，有想法意见可以告诉小洛～"><a href="#4-网站每天会进行检查维护改进，有想法意见可以告诉小洛～" class="headerlink" title="4.网站每天会进行检查维护改进，有想法意见可以告诉小洛～"></a>4.网站每天会进行检查维护改进，有想法意见可以告诉小洛～</h2><h2 id="5-有时可能会有小彩蛋掉落"><a href="#5-有时可能会有小彩蛋掉落" class="headerlink" title="5.有时可能会有小彩蛋掉落"></a>5.有时可能会有小彩蛋掉落</h2><h2 id="6-第5条概率会大大提高当遇到节日时"><a href="#6-第5条概率会大大提高当遇到节日时" class="headerlink" title="6.第5条概率会大大提高当遇到节日时"></a>6.第5条概率会大大提高当遇到节日时</h2><h2 id="7-除非com崩了，网站会一直存在"><a href="#7-除非com崩了，网站会一直存在" class="headerlink" title="7.除非com崩了，网站会一直存在"></a>7.除非com崩了，网站会一直存在</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> 我与星云 </category>
+          
+      </categories>
       
       
     </entry>
