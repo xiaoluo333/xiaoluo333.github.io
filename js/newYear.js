@@ -49,7 +49,7 @@ var newYear = () => {
     // 元宝飘落
     jQuery(document).ready(function ($) {
         $('#newYear').wpSuperSnow({
-            flakes: ['https://tuchuang.voooe.cn/images/2023/01/02/yb1.webp', 'https://tuchuang.voooe.cn/images/2023/01/02/yb2.webp', 'https://tuchuang.voooe.cn/images/2023/01/02/yb3.webp'],
+            flakes: ['https://blog-1322508707.cos.ap-beijing.myqcloud.com/pic%2Fyb1.webp', 'https://blog-1322508707.cos.ap-beijing.myqcloud.com/pic%2Fyb2.webp', 'https://blog-1322508707.cos.ap-beijing.myqcloud.com/pic%2Fyb3.webp'],
             totalFlakes: '100',
             zIndex: '1',
             maxSize: '30',
@@ -58,7 +58,7 @@ var newYear = () => {
         });
     });
 }
-newYear()
+//newYear()
 // Pjax适配：若没有开启Pjax这里直接是newYear()即可
 // 开了Pjax的用以下两句
 document.addEventListener('pjax:complete', newYear);
