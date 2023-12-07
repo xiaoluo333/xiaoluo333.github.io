@@ -1,5 +1,3 @@
-document.addEventListener('pjax:complete', newYear);
-document.addEventListener('DOMContentLoaded', newYear);
 let newYearTimer = null;
 var newYear = () => {
     clearTimeout(newYearTimer);
@@ -61,5 +59,7 @@ var newYear = () => {
     });
 }
 //newYear()
+document.addEventListener('pjax:complete', newYear);
+document.addEventListener('DOMContentLoaded', newYear);
 // Pjax适配：若没有开启Pjax这里直接是newYear()即可
 // 开了Pjax的用以下两句
